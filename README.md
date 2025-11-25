@@ -4,7 +4,6 @@
 Your **AI-powered personal travel concierge**, powered by a multi-agent architecture that collaboratively builds smart, personalized itineraries.  
 From daily plans to weather forecasting, cultural insights, packing lists, and travel links — this system handles everything.
 
-🔗 **Repository:** https://github.com/vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner
 
 ---
 
