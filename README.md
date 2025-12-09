@@ -60,7 +60,7 @@ MultiAgents-with-Langgraph-TravelItineraryPlanner/
 
 #  Installation
 ```
-git clone https://github.com/vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner.git
+git clone https://github.com/Devdesai1901/MultiAgent.git
 cd MultiAgents-with-Langgraph-TravelItineraryPlanner
 pip install -r requirements.txt
 ```
